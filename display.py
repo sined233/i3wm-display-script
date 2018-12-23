@@ -1,7 +1,7 @@
 import os
 
 while True:
-	print("+++ HDMI Kontrol Center +++")
+	print("+++ HDMI Control Center +++")
 	print("1. Kolonowanie obrazu")
 	print("2. Obraz rozszerzony")
 	print("3. Wylaczenie ekranu")
